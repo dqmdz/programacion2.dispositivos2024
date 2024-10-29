@@ -235,3 +235,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 
 # badge pipeline
 
+[![programacion2.dispositivos CI](https://github.com/dqmdz/programacion2.dispositivos2024/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/dqmdz/programacion2.dispositivos2024/actions/workflows/maven.yml)
